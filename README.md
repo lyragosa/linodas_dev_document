@@ -1,2 +1,7 @@
-# linodas_dev_document
-Linodas Development Documents
+# 莉诺达斯开发文档中心
+
+放置一些开发用文档和策划稿
+
+主要用于和群内人士商量和讨论的时候用，防止聊天记录被刷掉导致看不到
+
+如果你不是群内人士，那么这些东西对你没有意义，也不用Star或者Fork了……没啥用啦
